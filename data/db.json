@@ -1,0 +1,62 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "type": "vedio",
+            "title": "Experince Tesla"
+        },
+        {
+            "id": 2,
+            "type": "car",
+            "title": "Model Y",
+            "price": "From $36,640*",
+            "info": "After Federal Tax Credit & Est. Gas Savings",
+            "img": "url(/images/model-y.jpg)",
+            "totalPrice": "47,740"
+        },
+        {
+            "id": 3,
+            "type": "car",
+            "title": "Model S",
+            "price": "From $71,090*",
+            "info": "After Est. Gas Savings",
+            "img": "url(/images/model-s.jpg)",
+            "totalPrice": "74,990"
+        },
+        {
+            "id": 4,
+            "type": "car",
+            "title": "Model X",
+            "price": "From $68,590*",
+            "info": "After Federal Tax Credit & Est. Gas Savings",
+            "img": "url(/images/model-x.jpg)",
+            "totalPrice": "79,990"
+        },
+        {
+            "id": 5,
+            "type": "solar",
+            "title": "Solar Panels",
+            "info": "Schedule a Virtual Consultaion",
+            "img": "url(/images/solar-panel.jpg)"
+        },
+        {
+            "id": 6,
+            "type": "solar",
+            "title": "Solar Roof",
+            "info": "Produce Clean Energy From Your Roof",
+            "img": "url(/images/solar-roof.jpg)"
+        },
+        {
+            "id": 7,
+            "type": "solar",
+            "title": "Powerwall",
+            "img": "url(/images/powerwall.jpg)"
+        },
+        {
+            "id": 8,
+            "type": "Accessories",
+            "title": "Accessories",
+            "img": "url(/images/accessories.jpg)"
+        }
+    ]
+}
